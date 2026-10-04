@@ -8,3 +8,14 @@
 .card .tag{display:inline-block;margin:0 0 10px;padding:5px 9px;border-radius:999px;background:#f5f1e8;color:#6e5420;font-size:12px;font-weight:700}
 .card[hidden]{display:none}
 .card img{aspect-ratio:16/10;object-fit:cover;width:100%;display:block}
+
+.view-tour-btn{border:0;background:none;padding:0;color:#8b6b2e;font-weight:700;cursor:pointer;font:inherit}
+.modal{display:none;position:fixed;inset:0;z-index:1000}
+.modal.open{display:block}
+.modal-backdrop{position:absolute;inset:0;background:rgba(0,0,0,.65)}
+.modal-panel{position:relative;width:min(720px,calc(100% - 28px));max-height:90vh;overflow:auto;margin:5vh auto;background:#fff;border-radius:18px;box-shadow:0 20px 60px rgba(0,0,0,.25)}
+.modal-close{position:absolute;right:12px;top:10px;width:40px;height:40px;border:0;border-radius:50%;font-size:28px;cursor:pointer;background:rgba(255,255,255,.9);z-index:2}
+.modal-image{width:100%;max-height:360px;object-fit:cover;display:block}
+.modal-body{padding:28px}
+.modal-body h2{margin:0 0 12px}
+.modal-note{padding:12px 14px;border-radius:10px;background:#f7f4ec;color:#6f6045;font-size:14px}
