@@ -1,18 +1,11 @@
-# Vishwa Vikshanam Tours Website
+# Vishwa Vikshanam Tours website
 
-Static, mobile-friendly website starter for **Vishwa Vikshanam Tours**.
-
-## Files
-- index.html
-- style.css
-- script.js
-- README.md
+This version uses the original uploaded Vishwa Vikshanam Tours logo and tour images extracted from the uploaded Android APK.
 
 ## Before going live
-1. Replace the WhatsApp number in `script.js`.
-2. Replace placeholder phone/email in `index.html`.
-3. Replace the destination card backgrounds with your approved tour images in `/images/`.
-4. Add your actual logo if available.
+- Replace the WhatsApp number in `script.js`.
+- Add the real phone number and email in `index.html`.
+- Add package prices, itineraries and booking details from the app/business data.
+- Connect the purchased custom domain after final testing.
 
-## Deployment
-This project can be uploaded to GitHub and imported into Vercel.
+The website is designed as a static site and can be deployed through the existing GitHub + Cloudflare workflow.
