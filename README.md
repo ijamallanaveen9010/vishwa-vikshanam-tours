@@ -1,11 +1,17 @@
 # Vishwa Vikshanam Tours website
 
-This version uses the original uploaded Vishwa Vikshanam Tours logo and tour images extracted from the uploaded Android APK.
+This version uses the original Vishwa Vikshanam Tours logo and tour images from the uploaded Android app.
 
-## Before going live
-- Replace the WhatsApp number in `script.js`.
-- Add the real phone number and email in `index.html`.
-- Add package prices, itineraries and booking details from the app/business data.
-- Connect the purchased custom domain after final testing.
+## App-only data rule
 
-The website is designed as a static site and can be deployed through the existing GitHub + Cloudflare workflow.
+The tour names, images, known package titles/durations and descriptions included here are taken from the app. No guessed package prices or itineraries were added. Future updates can add those details when they are confirmed.
+
+## Contact
+
+- Phone / WhatsApp: 9966130722
+- Email: vishwavikshanamtours@gmail.com
+- Address: Hyderabad
+
+## Deployment
+
+This is a static website for the existing GitHub + Cloudflare workflow.
