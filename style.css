@@ -26,6 +26,6 @@
 
 .child-bed-row strong{font-size:.92rem;line-height:1.5;text-align:right;}
 
-.tax-note{font-size:12px;font-weight:700;white-space:nowrap;margin-left:5px}.child-policy{margin-top:12px;padding:11px 13px;border-radius:12px;background:#fffaf2;border:1px solid #eadbc8;font-size:13px;color:#66533d}.child-policy p{margin:5px 0}.child-bed-row[hidden]{display:none!important}
+.tax-note{font-size:12px;font-weight:700;white-space:nowrap;margin-left:5px}.tax-line{margin:-4px 0 10px!important;font-size:12px;font-weight:800;text-align:right}.child-policy{margin-top:12px;padding:11px 13px;border-radius:12px;background:#fffaf2;border:1px solid #eadbc8;font-size:13px;color:#66533d}.child-policy p{margin:5px 0}.child-bed-row[hidden]{display:none!important}
 
 .tour-price,.modal-price{font-weight:800;font-size:1.05rem;margin:.55rem 0;color:#b45309}.modal-price{font-size:1.2rem;margin:.35rem 0 1rem}
