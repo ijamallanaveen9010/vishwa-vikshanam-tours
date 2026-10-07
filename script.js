@@ -8,7 +8,8 @@ const APP_TOURS = [
       "Sonamarg",
       "Pahalgam"
     ],
-    "image": "kashmir.jpg"
+    "image": "kashmir.jpg",
+    "startingPrice": "4 Nights / 5 Days Rs.14,999/-"
   },
   {
     "name": "Amarnath Yatra",
@@ -27,7 +28,8 @@ const APP_TOURS = [
       "Chamunda",
       "Kurukshetra"
     ],
-    "image": "amarnath.jpg"
+    "image": "amarnath.jpg",
+    "startingPrice": "5 Nights / 6 Days Rs.24,999/-"
   },
   {
     "name": "Vaishnodevi Katra Tour",
@@ -37,7 +39,8 @@ const APP_TOURS = [
       "Vaishnodevi",
       "Bhairavnath Baba"
     ],
-    "image": "vaishnodevi.jpg"
+    "image": "vaishnodevi.jpg",
+    "startingPrice": "2 Nights / 3 Days Rs.9,999/-"
   },
   {
     "name": "Golden Triangle Tour",
@@ -48,7 +51,8 @@ const APP_TOURS = [
       "Vrindavan",
       "Jaipur"
     ],
-    "image": "golden_triangle.jpg"
+    "image": "golden_triangle.jpg",
+    "startingPrice": "4 Nights / 5 Days Rs.14,999/-"
   },
   {
     "name": "Shimla - Manali Tour",
@@ -59,7 +63,8 @@ const APP_TOURS = [
       "Kufri",
       "Kasol"
     ],
-    "image": "shimla_manali.jpg"
+    "image": "shimla_manali.jpg",
+    "startingPrice": "5 Nights / 6 Days Rs.24,999/-"
   },
   {
     "name": "Chardham Yatra",
@@ -78,7 +83,8 @@ const APP_TOURS = [
       "Rishikesh",
       "Pancha Prayaga View Points"
     ],
-    "image": "chardham.jpg"
+    "image": "chardham.jpg",
+    "startingPrice": "12 Nights / 13 Days Rs.39,999/-"
   },
   {
     "name": "Do Dham Yatra",
@@ -89,7 +95,8 @@ const APP_TOURS = [
       "Badrinath",
       "Dhaari Devi"
     ],
-    "image": "do_dham.jpg"
+    "image": "do_dham.jpg",
+    "startingPrice": "6 Nights / 7 Days Rs.24,999/-"
   },
   {
     "name": "Agra - Mathura - Vrindavan Tour",
@@ -102,7 +109,8 @@ const APP_TOURS = [
       "Govardhan",
       "Barsana"
     ],
-    "image": "agra_mathura_vrindavan.jpg"
+    "image": "agra_mathura_vrindavan.jpg",
+    "startingPrice": "3 Nights / 4 Days Rs.14,999/-"
   },
   {
     "name": "Kashi - Ayodhya - Prayagraj Tour 4 Days",
@@ -114,7 +122,8 @@ const APP_TOURS = [
       "naimisharanyam",
       "lucknow"
     ],
-    "image": "kashi_ayodhya_prayagraj.jpg"
+    "image": "kashi_ayodhya_prayagraj.jpg",
+    "startingPrice": "3 Nights / 4 Days Rs.14,999/-"
   },
   {
     "name": "Kashi Yatra 9 Nights - 10 Days",
@@ -129,7 +138,8 @@ const APP_TOURS = [
       "Gaya",
       "Bodh Gaya"
     ],
-    "image": "kashi_yatra.jpg"
+    "image": "kashi_yatra.jpg",
+    "startingPrice": "9 Nights / 10 Days Rs.31,999/-"
   },
   {
     "name": "Rajasthan Tour",
@@ -144,7 +154,8 @@ const APP_TOURS = [
       "Nathdwara",
       "Mount Abu"
     ],
-    "image": "rajasthan_tour.jpg"
+    "image": "rajasthan_tour.jpg",
+    "startingPrice": "6 Nights / 7 Days Rs.26,999/-"
   },
   {
     "name": "Gujarat Tour 7 Days",
@@ -161,7 +172,8 @@ const APP_TOURS = [
       "Bhavnagar",
       "Statue of Unity"
     ],
-    "image": "gujarat_tour.jpg"
+    "image": "gujarat_tour.jpg",
+    "startingPrice": "6 Nights / 7 Days Rs.27,999/-"
   },
   {
     "name": "Gujarat - Madhya Pradesh tour 12 Days",
@@ -184,7 +196,8 @@ const APP_TOURS = [
       "Ujjain",
       "Omkareshwar"
     ],
-    "image": "gujarat_madhya_pradesh_tour_12days.jpg"
+    "image": "gujarat_madhya_pradesh_tour_12days.jpg",
+    "startingPrice": "11 Nights / 12 Days Rs.41,999/-"
   },
   {
     "name": "Odisha Tour",
@@ -199,7 +212,8 @@ const APP_TOURS = [
       "Sakhi Gopal",
       "Pipli"
     ],
-    "image": "odisha_tour.jpg"
+    "image": "odisha_tour.jpg",
+    "startingPrice": "5 Nights / 6 Days Rs.18,499/-"
   },
   {
     "name": "Maharashtra Jyothirlinga Yatra",
@@ -214,7 +228,8 @@ const APP_TOURS = [
       "Ellora Caves",
       "Aurangabad"
     ],
-    "image": "maharashtra_jyothirlinga_tour.jpg"
+    "image": "maharashtra_jyothirlinga_tour.jpg",
+    "startingPrice": "7 Nights / 8 Days Rs.34,999/-"
   },
   {
     "name": "Karnataka Tour",
@@ -233,7 +248,8 @@ const APP_TOURS = [
       "Udupi",
       "Gokarna"
     ],
-    "image": "karnataka_tour.jpg"
+    "image": "karnataka_tour.jpg",
+    "startingPrice": "7 Nights / 8 Days Rs.34,999/-"
   },
   {
     "name": "Kerala Tour",
@@ -248,7 +264,8 @@ const APP_TOURS = [
       "Thiruvananthapuram",
       "Varkala"
     ],
-    "image": "kerala_tour.jpg"
+    "image": "kerala_tour.jpg",
+    "startingPrice": "6 Nights / 7 Days Rs.29,999/-"
   },
   {
     "name": "Tamilanadu Tour",
@@ -265,7 +282,8 @@ const APP_TOURS = [
       "Kanyakumari",
       "Meenakshi Amman Temple"
     ],
-    "image": "tamilanadu_tour.jpg"
+    "image": "tamilanadu_tour.jpg",
+    "startingPrice": "8 Nights / 9 Days Rs.38,999/-"
   },
   {
     "name": "Hyderabad Tour",
@@ -281,7 +299,8 @@ const APP_TOURS = [
       "Ramoji Film City",
       "Shilparamam"
     ],
-    "image": "hyderabad_tour.jpg"
+    "image": "hyderabad_tour.jpg",
+    "startingPrice": "3 Nights / 4 Days Rs.14,999/-"
   },
   {
     "name": "Gangtok - Darjeeling Tour",
@@ -298,7 +317,8 @@ const APP_TOURS = [
       "Darjeeling Himalayan Railway",
       "Himalayan Mountaineering Institute"
     ],
-    "image": "gangtok_darjeeling_tour.jpg"
+    "image": "gangtok_darjeeling_tour.jpg",
+    "startingPrice": "Starting from Rs.19,999/-"
   },
   {
     "name": "Northeast Tours",
@@ -317,7 +337,8 @@ const APP_TOURS = [
       "Kohima",
       "Imphal"
     ],
-    "image": "northeast_tours.jpg"
+    "image": "northeast_tours.jpg",
+    "startingPrice": "Starting from Rs.19,999/-"
   },
   {
     "name": "Goa Beach & Heritage Tour",
@@ -331,7 +352,8 @@ const APP_TOURS = [
       "Aguada Fort",
       "Basilica of Bom Jesus"
     ],
-    "image": "goa_tour.jpg"
+    "image": "goa_tour.jpg",
+    "startingPrice": "3 Nights / 4 Days Rs.14,999/-"
   },
   {
     "name": "Andaman Islands Paradise Tour",
@@ -345,7 +367,8 @@ const APP_TOURS = [
       "Neil Island",
       "Elephant Beach"
     ],
-    "image": "andaman_tour.jpg"
+    "image": "andaman_tour.jpg",
+    "startingPrice": "Starting from Rs.19,999/-"
   },
   {
     "name": "Leh - Ladakh Adventure Tour",
@@ -359,7 +382,8 @@ const APP_TOURS = [
       "Magnetic Hill",
       "Thiksey Monastery"
     ],
-    "image": "leh_ladakh.webp"
+    "image": "leh_ladakh.webp",
+    "startingPrice": "Starting from Rs.24,999/-"
   },
   {
     "name": "Uttarakhand Divine & Valley Tour",
@@ -371,7 +395,8 @@ const APP_TOURS = [
       "Bhimtal",
       "Jim Corbett National Park"
     ],
-    "image": "rishikesh_tour.jpg"
+    "image": "rishikesh_tour.jpg",
+    "startingPrice": "3 Nights / 4 Days Rs.18,999/-"
   },
   {
     "name": "Andhra Pradesh Temple & Heritage Tour",
@@ -386,7 +411,8 @@ const APP_TOURS = [
       "Belum Caves",
       "Annavaram"
     ],
-    "image": "andhra_tour.webp"
+    "image": "andhra_tour.webp",
+    "startingPrice": "Starting from Rs.14,999/-"
   },
   {
     "name": "Meghalaya Waterfall & Nature Tour",
@@ -400,7 +426,8 @@ const APP_TOURS = [
       "Living Root Bridges",
       "Dawki River"
     ],
-    "image": "meghalaya_tour.jpg"
+    "image": "meghalaya_tour.jpg",
+    "startingPrice": "Starting from Rs.19,999/-"
   },
   {
     "name": "Madhya Pradesh Heritage & Wildlife Tour",
@@ -414,7 +441,8 @@ const APP_TOURS = [
       "Kanha National Park",
       "Ujjain"
     ],
-    "image": "madhya_pradesh_tour.jpg"
+    "image": "madhya_pradesh_tour.jpg",
+    "startingPrice": "Starting from Rs.14,999/-"
   },
   {
     "name": "Punjab & Golden Temple Heritage Tour",
@@ -428,9 +456,10 @@ const APP_TOURS = [
       "Chandigarh",
       "Anandpur Sahib"
     ],
-    "image": "punjab_golden_temple.png"
+    "image": "punjab_golden_temple.png",
+    "startingPrice": "2 Nights / 3 Days Rs.9,999/-"
   }
-];
+];;
 const INDIA_SEARCH_PLACES = [
 ['Delhi','Major City'],['Mumbai','Major City'],['Hyderabad','Major City'],['Bengaluru','Major City'],['Chennai','Major City'],['Kolkata','Major City'],['Pune','Major City'],['Ahmedabad','Major City'],['Jaipur','Major City'],['Lucknow','Major City'],['Varanasi','Major City'],['Agra','Major City'],['Amritsar','Major City'],['Chandigarh','Major City'],['Bhopal','Major City'],['Indore','Major City'],['Patna','Major City'],['Ranchi','Major City'],['Bhubaneswar','Major City'],['Visakhapatnam','Major City'],['Vijayawada','Major City'],['Tirupati','Major City'],['Madurai','Major City'],['Coimbatore','Major City'],['Mysuru','Major City'],['Kochi','Major City'],['Thiruvananthapuram','Major City'],['Goa','Major City'],['Surat','Major City'],['Vadodara','Major City'],['Nagpur','Major City'],['Nashik','Major City'],['Aurangabad','Major City'],['Jodhpur','Major City'],['Udaipur','Major City'],['Jaisalmer','Major City'],['Srinagar','Major City'],['Jammu','Major City'],['Shimla','Major City'],['Manali','Major City'],['Dehradun','Major City'],['Haridwar','Major City'],['Rishikesh','Major City'],['Guwahati','Major City'],['Shillong','Major City'],['Gangtok','Major City'],['Darjeeling','Major City'],['Leh','Major City'],['Port Blair','Major City'],['Panaji','Major City'],['Puri','Major City'],['Mathura','Major City'],['Vrindavan','Major City'],['Ayodhya','Major City'],['Prayagraj','Major City'],
 ['Indira Gandhi International Airport, Delhi','Airport'],['Chhatrapati Shivaji Maharaj International Airport, Mumbai','Airport'],['Rajiv Gandhi International Airport, Hyderabad','Airport'],['Kempegowda International Airport, Bengaluru','Airport'],['Chennai International Airport','Airport'],['Netaji Subhas Chandra Bose International Airport, Kolkata','Airport'],['Sardar Vallabhbhai Patel International Airport, Ahmedabad','Airport'],['Jaipur International Airport','Airport'],['Cochin International Airport','Airport'],['Trivandrum International Airport','Airport'],['Goa International Airport, Dabolim','Airport'],['Manohar International Airport, Goa','Airport'],['Pune International Airport','Airport'],['Chandigarh International Airport','Airport'],['Sri Guru Ram Dass Jee International Airport, Amritsar','Airport'],['Lal Bahadur Shastri International Airport, Varanasi','Airport'],['Mangalore International Airport','Airport'],['Coimbatore International Airport','Airport'],['Madurai Airport','Airport'],['Tiruchirappalli International Airport','Airport'],['Biju Patnaik International Airport, Bhubaneswar','Airport'],['Visakhapatnam International Airport','Airport'],['Vijayawada International Airport','Airport'],['Tirupati International Airport','Airport'],['Indore Airport','Airport'],['Bhopal Airport','Airport'],['Dr. Babasaheb Ambedkar International Airport, Nagpur','Airport'],['Lokpriya Gopinath Bordoloi International Airport, Guwahati','Airport'],['Bagdogra Airport, Siliguri','Airport'],['Srinagar International Airport','Airport'],['Jammu Airport','Airport'],['Kushok Bakula Rimpochee Airport, Leh','Airport'],['Dehradun Airport, Jolly Grant','Airport'],['Jaipur Airport','Airport'],['Jodhpur Airport','Airport'],['Udaipur Airport','Airport'],['Ranchi Airport','Airport'],['Patna Airport','Airport'],['Veer Savarkar International Airport, Port Blair','Airport'],
@@ -459,9 +488,9 @@ function hotelCost(hotelType,sharing,food,days,adults,ages,customRooms){ const r
 function calculatePackage(state){ const dist=routeDistance(state.pickup,state.places,state.drop); const v=VEHICLES.find(x=>x.name===state.vehicle)||VEHICLES[0]; const h=hotelCost(state.hotel,state.sharing,state.food,state.days,state.adults,state.childAges,state.rooms||null); const vc=vehicleCost(v,state.days,dist.km,state.pickup,state.drop); const base=vc+h.cost; const profit=base*0.40; const group=base+profit; /* The group package is the final package pool. Allocate that fixed pool by weighted passenger shares: adult=100%, child 0-5=0%, 6-11=60%, 12+=100%. */ const weightedShares=state.adults + state.childAges.reduce((s,a)=>s+childPct(a),0); const perAdult=weightedShares>0?group/weightedShares:group; const childrenCost=state.childAges.reduce((s,a)=>s+perAdult*childPct(a),0); const final=group; const finalPerAdult=perAdult; return {dist,vehicle:v,vehicleCost:vc,hotel:h,base,profit,groupPackageCost:group,childrenCost,final,finalPerAdult,weightedShares}; }
 function sendWhatsApp(destination,extra=''){ const name=document.getElementById('name')?.value.trim()||''; const phone=document.getElementById('phone')?.value.trim()||''; const message=document.getElementById('message')?.value.trim()||''; const text=`Hello Vishwa Vikshanam Tours,\nI am interested in ${destination}.\nName: ${name}\nPhone / WhatsApp: ${phone}\nRequirements: ${message}\n${extra}`; window.open(`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(text)}`,'_blank'); }
 function closeModal(){const m=document.getElementById('tourModal');m.classList.remove('open');m.setAttribute('aria-hidden','true');}
-function openTourModal(tour){ document.getElementById('modalTitle').textContent=tour.name; document.getElementById('modalDescription').textContent=tour.description; const im=document.getElementById('modalImage');im.src=tour.image;im.alt=tour.name; document.getElementById('modalPlaces').innerHTML=tour.places.map(p=>`<li>${p}</li>`).join(''); document.getElementById('tourModal').classList.add('open'); document.getElementById('tourModal').setAttribute('aria-hidden','false'); window.currentModalTour=tour; }
-function enquireTourOnWhatsApp(tour){ const text=`Hello Vishwa Vikshanam Tours,\nI want to Book / Enquire about: ${tour.name}\nPlaces: ${tour.places.join(', ')}\nPlease share availability, itinerary and final price.`; window.open(`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(text)}`,'_blank'); }
-function renderTours(){ const grid=document.getElementById('tourGrid'); grid.innerHTML=APP_TOURS.map((t,i)=>`<article class="card"><img src="${t.image}" alt="${t.name.replace(/"/g,'&quot;')}" loading="lazy"><div class="card-body"><h3>${t.name}</h3><p>${t.description}</p><button class="text-btn view-tour-btn" type="button" data-tour="${i}">View Tour Details →</button></div></article>`).join(''); document.querySelectorAll('.view-tour-btn').forEach(b=>b.addEventListener('click',()=>openTourModal(APP_TOURS[Number(b.dataset.tour)]))); document.getElementById('tourCount').textContent=`${APP_TOURS.length} tours`; }
+function openTourModal(tour){ document.getElementById('modalTitle').textContent=tour.name; document.getElementById('modalPrice').textContent=tour.startingPrice||''; document.getElementById('modalDescription').textContent=tour.description; const im=document.getElementById('modalImage');im.src=tour.image;im.alt=tour.name; document.getElementById('modalPlaces').innerHTML=tour.places.map(p=>`<li>${p}</li>`).join(''); document.getElementById('tourModal').classList.add('open'); document.getElementById('tourModal').setAttribute('aria-hidden','false'); window.currentModalTour=tour; }
+function enquireTourOnWhatsApp(tour){ const text=`Hello Vishwa Vikshanam Tours,\nI want to Book / Enquire about: ${tour.name}\nPrice shown in app: ${tour.startingPrice||'Please confirm'}\nPlaces: ${tour.places.join(', ')}\nPlease share availability, itinerary and final price.`; window.open(`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(text)}`,'_blank'); }
+function renderTours(){ const grid=document.getElementById('tourGrid'); grid.innerHTML=APP_TOURS.map((t,i)=>`<article class="card"><img src="${t.image}" alt="${t.name.replace(/"/g,'&quot;')}" loading="lazy"><div class="card-body"><h3>${t.name}</h3><p>${t.description}</p><div class="tour-price">${t.startingPrice||''}</div><button class="text-btn view-tour-btn" type="button" data-tour="${i}">View Tour Details →</button></div></article>`).join(''); document.querySelectorAll('.view-tour-btn').forEach(b=>b.addEventListener('click',()=>openTourModal(APP_TOURS[Number(b.dataset.tour)]))); document.getElementById('tourCount').textContent=`${APP_TOURS.length} tours`; }
 function fillTourSelect(){const s=document.getElementById('customTour'); s.innerHTML='<option value="">Select a tour</option>'+APP_TOURS.map((t,i)=>`<option value="${i}">${t.name}</option>`).join(''); const d=document.getElementById('destination'); if(d)d.innerHTML='<option value="">Select tour</option>'+APP_TOURS.map(t=>`<option>${t.name}</option>`).join('')+'<option>Other</option>';}
 function allPlaceOptions(){ const base=LOCAL_PLACES.map(p=>({name:p.name,type:'App Place'})); const seen=new Set(base.map(x=>x.name.toLowerCase())); const extra=INDIA_SEARCH_PLACES.filter(x=>{const k=x.name.toLowerCase(); if(seen.has(k)) return false; seen.add(k); return true;}); return base.concat(extra); }
 function fillPlaces(){ const list=document.getElementById('placeList'); list.innerHTML=allPlaceOptions().map(p=>`<label class="place-option"><input type="checkbox" value="${p.name}"><span>${p.name}</span><small>${p.type}</small></label>`).join(''); document.querySelectorAll('#placeList input').forEach(x=>x.addEventListener('change',updateCalculator)); }
@@ -469,7 +498,7 @@ function selectedPlaces(){return [...document.querySelectorAll('#placeList input
 function renderTourPlaces(){ const i=Number(document.getElementById('customTour').value); const box=document.getElementById('tourSuggestedPlaces'); document.querySelectorAll('#placeList input').forEach(x=>x.checked=false); if(!Number.isInteger(i)||!APP_TOURS[i]){box.innerHTML='<strong>Our suggested tour places</strong><small>Select a tour to load its app sightseeing places.</small>'; return;} const places=APP_TOURS[i].places; box.innerHTML='<strong>Our suggested tour places</strong><div class="suggested-place-list">'+places.map(p=>`<label class="suggested-place"><input type="checkbox" value="${p}" data-suggested="1" checked> ${p}</label>`).join('')+'</div><small>Tick to keep a place, untick to remove it. Use “Places to Visit” below to add more places.</small>'; places.forEach(p=>{const existing=[...document.querySelectorAll('#placeList input')].find(x=>x.value===p); if(existing) existing.checked=true;}); box.querySelectorAll('input').forEach(x=>x.addEventListener('change',()=>{const main=[...document.querySelectorAll('#placeList input')].find(y=>y.value===x.value); if(main) main.checked=x.checked; updateCalculator();})); updateCalculator(); }
 function updateAvailableVehicles(){const s=document.getElementById('vehicle'); const old=s.value; s.innerHTML=VEHICLES.map(v=>`<option value="${v.name}">${v.name}</option>`).join(''); if(old&&VEHICLES.some(v=>v.name===old))s.value=old;}
 function buildChildInputs(){ const n=Math.max(0,Math.min(10,Number(document.getElementById('children').value)||0)); const box=document.getElementById('childAges'); box.innerHTML=Array.from({length:n},(_,i)=>`<input class="child-age" type="number" min="0" max="17" placeholder="Child ${i+1} age (0-17)">`).join(''); document.querySelectorAll('.child-age').forEach(x=>x.addEventListener('input',updateCalculator)); updateAvailableVehicles(); }
-function updateCalculator(){ updateAvailableVehicles(); const ages=[...document.querySelectorAll('.child-age')].map(x=>x.value.trim()).filter(x=>x!=='').map(Number).filter(Number.isFinite); const tourIndex=Number(document.getElementById('customTour').value); const state={days:Number(document.getElementById('days').value)||1,adults:Number(document.getElementById('adults').value)||1,childAges:ages,pickup:document.getElementById('pickup').value,drop:document.getElementById('drop').value,places:selectedPlaces(),vehicle:document.getElementById('vehicle').value,hotel:document.getElementById('hotel').value,sharing:document.getElementById('sharing').value,food:document.getElementById('food').value,rooms:document.getElementById('rooms').value}; const r=calculatePackage(state); const tour=APP_TOURS[tourIndex]; document.getElementById('summaryTour').textContent=tour?.name||'Custom Tour'; document.getElementById('summaryDays').textContent=state.days; document.getElementById('summaryAdults').textContent=state.adults; document.getElementById('summaryChildren').textContent=ages.length?ages.map(a=>a+' yrs').join(', '):'0'; document.getElementById('summaryPickup').textContent=state.pickup||'—'; document.getElementById('summaryDrop').textContent=state.drop||'—'; document.getElementById('summaryVehicle').textContent=r.vehicle.name; document.getElementById('summaryHotel').textContent=state.hotel; document.getElementById('summaryFood').textContent=state.food; document.getElementById('summarySharing').textContent=state.sharing; document.getElementById('summaryPlaces').textContent=state.places.length?state.places.join(', '):'None'; document.getElementById('childrenCost').textContent=money(r.childrenCost); const childBedEl=document.getElementById('childBedDetails'); if(childBedEl){ childBedEl.textContent=''; } document.getElementById('totalCost').textContent=money(r.final); document.getElementById('perAdultCost').textContent=money(r.finalPerAdult); window.currentQuote={state,r,tour}; }
+function updateCalculator(){ updateAvailableVehicles(); const ages=[...document.querySelectorAll('.child-age')].map(x=>x.value.trim()).filter(x=>x!=='').map(Number).filter(Number.isFinite); const tourIndex=Number(document.getElementById('customTour').value); const state={days:Number(document.getElementById('days').value)||1,adults:Number(document.getElementById('adults').value)||1,childAges:ages,pickup:document.getElementById('pickup').value,drop:document.getElementById('drop').value,places:selectedPlaces(),vehicle:document.getElementById('vehicle').value,hotel:document.getElementById('hotel').value,sharing:document.getElementById('sharing').value,food:document.getElementById('food').value,rooms:document.getElementById('rooms').value}; const r=calculatePackage(state); const tour=APP_TOURS[tourIndex]; document.getElementById('summaryTour').textContent=tour?.name||'Custom Tour'; document.getElementById('summaryDays').textContent=state.days; document.getElementById('summaryAdults').textContent=state.adults; document.getElementById('summaryChildren').textContent=ages.length?ages.map(a=>a+' yrs').join(', '):'0'; document.getElementById('summaryPickup').textContent=state.pickup||'—'; document.getElementById('summaryDrop').textContent=state.drop||'—'; document.getElementById('summaryVehicle').textContent=r.vehicle.name; document.getElementById('summaryHotel').textContent=state.hotel; document.getElementById('summaryFood').textContent=state.food; document.getElementById('summarySharing').textContent=state.sharing; document.getElementById('summaryPlaces').textContent=state.places.length?state.places.join(', '):'None'; const childBedEl=document.getElementById('childBedMessage'); if(childBedEl){ const bedCount=ages.filter(a=>a>=6&&a<=11).length; childBedEl.textContent=bedCount?`Extra mattress / bed will be provided for ${bedCount} child${bedCount===1?'':'ren'}. Bed cost is included internally in the package calculation.`:''; } document.getElementById('totalCost').textContent=money(r.final); document.getElementById('perAdultCost').textContent=money(r.finalPerAdult); window.currentQuote={state,r,tour}; }
 function shareCustomQuote(){const q=window.currentQuote;if(!q)return; const s=q.state,r=q.r; const text=`Hello Vishwa Vikshanam Tours,
 Custom Tour Enquiry / Quote
 Tour: ${q.tour?.name||'Custom Tour'}
